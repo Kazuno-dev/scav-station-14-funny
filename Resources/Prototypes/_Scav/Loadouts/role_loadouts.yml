@@ -4,7 +4,6 @@
   groups:
   - CaptainHead
   - BaseGlasses
-  - CommandEars
   - BaseFace
   - CaptainNeck
   - CaptainJumpsuit
@@ -24,7 +23,6 @@
   groups:
   - HoPHead
   - BaseGlasses
-  - CommandEars
   - BaseFace
   - HoPNeck
   - HoPJumpsuit
@@ -57,7 +55,6 @@
   groups:
   - BaseHead
   - BaseGlasses
-  - BaseEars
   - PassengerFace
   - PassengerNeck
   - PassengerJumpsuit
@@ -77,7 +74,6 @@
   groups:
   - BaseHead
   - BaseGlasses
-  - BaseEars
   - PassengerFace
   - PassengerNeck
   - PassengerJumpsuit
@@ -97,7 +93,6 @@
   groups:
   - BartenderHead
   - BaseGlasses
-  - ServiceEars
   - BaseFace
   - BaseNeck
   - BartenderJumpsuit
@@ -117,7 +112,6 @@
   groups:
   - BaseHead
   - BaseGlasses
-  - ServiceEars
   - BaseFace
   - BaseNeck
   - BartenderJumpsuit
@@ -137,7 +131,6 @@
   groups:
   - ChefHead
   - BaseGlasses
-  - ServiceEars
   - ChefMask
   - BaseNeck
   - ChefJumpsuit
@@ -157,7 +150,6 @@
   groups:
   - BaseHead
   - BaseGlasses
-  - ServiceEars
   - BaseFace
   - BaseNeck
   - LibrarianJumpsuit
@@ -177,7 +169,6 @@
   groups:
   - BaseHead
   - BaseGlasses
-  - BaseEars
   - BaseFace
   - LawyerNeck
   - LawyerJumpsuit
@@ -197,7 +188,6 @@
   groups:
   - ChaplainHead
   - BaseGlasses
-  - BaseEars
   - ChaplainMask
   - ChaplainNeck
   - ChaplainJumpsuit
@@ -218,7 +208,6 @@
   groups:
   - JanitorHead
   - BaseGlasses
-  - ServiceEars
   - BaseFace
   - BaseNeck
   - JanitorJumpsuit
@@ -238,7 +227,6 @@
   groups:
   - BotanistHead
   - BaseGlasses
-  - ServiceEars
   - BaseFace
   - BaseNeck
   - BotanistJumpsuit
@@ -259,7 +247,6 @@
   groups:
   - ClownHead
   - BaseGlasses
-  - BaseEars
   - BaseFace
   - BaseNeck
   - ClownJumpsuit
@@ -280,7 +267,6 @@
   groups:
   - MimeHead
   - BaseGlasses
-  - BaseEars
   - MimeMask
   - BaseNeck
   - MimeJumpsuit
@@ -300,7 +286,6 @@
   groups:
   - BaseHead
   - BaseGlasses
-  - BaseEars
   - BaseFace
   - BaseNeck
   - MusicianJumpsuit
@@ -322,7 +307,6 @@
   groups:
   - QuartermasterHead
   - BaseGlasses
-  - QuartermasterEars
   - BaseFace
   - QuartermasterNeck
   - QuartermasterJumpsuit
@@ -342,7 +326,6 @@
   groups:
   - CargoTechnicianHead
   - BaseGlasses
-  - CargoEars
   - BaseFace
   - BaseNeck
   - CargoTechnicianJumpsuit
@@ -362,7 +345,6 @@
   groups:
   - BaseHead
   - BaseGlasses
-  - CargoEars
   - BaseFace
   - BaseNeck
   - SalvageSpecialistJumpsuit
@@ -383,7 +365,6 @@
   groups:
   - ChiefEngineerHead
   - BaseGlasses
-  - ChiefEngineerEars
   - BaseFace
   - ChiefEngineerNeck
   - ChiefEngineerJumpsuit
@@ -403,7 +384,6 @@
   groups:
   - BaseHead
   - BaseGlasses
-  - EngineeringEars
   - BaseFace
   - BaseNeck
   - TechnicalAssistantJumpsuit
@@ -423,7 +403,6 @@
   groups:
   - StationEngineerHead
   - BaseGlasses
-  - EngineeringEars
   - BaseFace
   - BaseNeck
   - StationEngineerJumpsuit
@@ -444,7 +423,6 @@
   groups:
   - BaseHead
   - BaseGlasses
-  - EngineeringEars
   - BaseFace
   - BaseNeck
   - AtmosphericTechnicianJumpsuit
@@ -465,7 +443,6 @@
   groups:
   - ResearchDirectorHead
   - BaseGlasses
-  - ResearchDirectorEars
   - BaseFace
   - ResearchDirectorNeck
   - ResearchDirectorJumpsuit
@@ -485,7 +462,6 @@
   groups:
   - ScientistHead
   - BaseGlasses
-  - ScienceEars
   - BaseFace
   - ScientistNeck
   - ScientistJumpsuit
@@ -506,7 +482,6 @@
   groups:
   - BaseHead
   - BaseGlasses
-  - ScienceEars
   - BaseFace
   - BaseNeck
   - ResearchAssistantJumpsuit
@@ -527,7 +502,6 @@
   groups:
   - MercenaryHead
   - MercenaryGlasses
-  - MercenaryEars
   - MercenaryFace
   - BaseNeck
   - MercenaryJumpsuit
@@ -549,7 +523,6 @@
   groups:
   - HeadofSecurityHead
   - BaseGlasses
-  - BaseEars
   - BaseFace
   - HeadofSecurityNeck
   - HeadofSecurityJumpsuit
@@ -570,7 +543,6 @@
   groups:
   - WardenHead
   - BaseGlasses
-  - BaseEars
   - BaseFace
   - BaseNeck
   - WardenJumpsuit
@@ -591,7 +563,6 @@
   groups:
   - SecurityHead
   - BaseGlasses
-  - BaseEars
   - BaseFace
   - BaseNeck
   - SecurityJumpsuit
@@ -613,7 +584,6 @@
   groups:
   - DetectiveHead
   - BaseGlasses
-  - BaseEars
   - BaseFace
   - DetectiveNeck
   - DetectiveJumpsuit
@@ -634,7 +604,6 @@
   groups:
   - BaseHead
   - BaseGlasses
-  - BaseEars
   - BaseFace
   - BaseNeck
   - SecurityCadetJumpsuit
@@ -655,7 +624,6 @@
   groups:
   - ChiefMedicalOfficerHead
   - MedicalEyewear
-  - BaseEars
   - MedicalMask
   - ChiefMedicalOfficerNeck
   - ChiefMedicalOfficerJumpsuit
@@ -675,7 +643,6 @@
   groups:
   - MedicalDoctorHead
   - MedicalEyewear
-  - BaseEars
   - MedicalMask
   - BaseNeck
   - MedicalDoctorJumpsuit
@@ -707,7 +674,6 @@
   groups:
   - BaseHead
   - BaseGlasses
-  - BaseEars
   - MedicalMask
   - BaseNeck
   - ChemistJumpsuit
@@ -727,7 +693,6 @@
   groups:
   - ParamedicHead
   - MedicalEyewear
-  - BaseEars
   - MedicalMask
   - BaseNeck
   - ParamedicJumpsuit
@@ -746,7 +711,6 @@
   groups:
   - BaseHead
   - BaseGlasses
-  - BaseEars
   - BaseFace
   - BaseNeck
   - BaseJumpsuit
@@ -766,7 +730,6 @@
   groups:
   - BaseHead
   - BaseGlasses
-  - BaseEars
   - BaseFace
   - BaseNeck
   - ReporterJumpsuit
@@ -786,7 +749,6 @@
   groups:
   - BaseHead
   - BaseGlasses
-  - BaseEars
   - BaseFace
   - BaseNeck
   - PsychologistJumpsuit
@@ -806,7 +768,6 @@
   groups:
   - BaseHead
   - BaseGlasses
-  - BaseEars
   - BaseFace
   - BaseNeck
   - BoxerJumpsuit

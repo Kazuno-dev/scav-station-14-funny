@@ -6,8 +6,6 @@
   loadouts:
   - CommandHeadset
   - CommandHeadsetAlt
-  subgroups:
-  - BaseEars
 
 - type: loadoutGroup
   id: CommandBackpackItems
@@ -140,8 +138,7 @@
   name: loadout-group-ears
   loadouts:
   - ServiceHeadset
-  subgroups:
-  - BaseEars
+
 
 - type: loadoutGroup
   id: PassengerJumpsuit
@@ -650,8 +647,7 @@
   loadouts:
   - CargoHeadset
   - CargoHeadsetAlt
-  subgroups:
-  - BaseEars
+
 
 - type: loadoutGroup
   id: QuartermasterHead
@@ -800,8 +796,7 @@
   loadouts:
   - EngineeringHeadset
   - EngineeringHeadsetAlt
-  subgroups:
-  - BaseEars
+
 
 - type: loadoutGroup
   id: EngineeringBelt
@@ -995,8 +990,7 @@
   loadouts:
   - ScienceHeadset
   - ScienceHeadsetAlt
-  subgroups:
-  - BaseEars
+
 
 - type: loadoutGroup
   id: ResearchDirectorHead
@@ -1014,7 +1008,7 @@
   - ResearchDirectorHeadset
   subgroups:
   - ScienceEars
-  
+
 - type: loadoutGroup
   id: ResearchDirectorNeck
   name: loadout-group-neck
