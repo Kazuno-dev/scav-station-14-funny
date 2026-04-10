@@ -178,6 +178,7 @@
 - type: loadoutGroup
   id: BaseBackpack
   name: loadout-group-backpack
+  minLimit: 0
   loadouts:
   - ClothingBackpack
   - ClothingBackpackDuffel
@@ -295,6 +296,7 @@
 - type: loadoutGroup
   id: BaseShoes
   name: loadout-group-shoes
+  minLimit: 0
   loadouts:
   - ClothingShoesColorBlack
   - ClothingShoesClothwrap
